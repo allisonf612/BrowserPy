@@ -1,0 +1,10 @@
+#! /bin/bash
+
+# Create the 'keys' and 'data' folders
+mkdir keys
+mkdir data
+
+# compile the shared object
+cd src/Parser
+./pymake.sh
+cd ../../

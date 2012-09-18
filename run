@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# start the BrowserPy App
+python src/mvcApp/browserpy.py http://syracuse.craigslist.org/sys/
+

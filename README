@@ -1,0 +1,3 @@
+"build" will compile the shared object and create storage directories (data and keys)
+"run" will launch the application with a default web address
+
